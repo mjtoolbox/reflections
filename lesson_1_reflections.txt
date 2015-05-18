@@ -1,0 +1,14 @@
+You can compare existing lines and new lines and visually check the difference. This will help to identify potential bugs and reconfirm your changes.
+
+Able to access the entire history allows you to be flexible. Based on previous attempt, you can freely explore your thoughts and modify code without worrying about leaving any trails or corruption of your code.
+
+Pros - you can decide the logical point to save the file. Cons - if something happens, you will loose your change.
+
+Saving multiple files in one commit seems little bit wasted, but it also means we will have all the snapshot of what's in the repository. Also, allows us to work offline. When online, things needs to be updated based on my change. Also, off line allows us to add/commit locally rather than remote.
+
+Git log will give me an idea what's been changed. Git diff will give me a detail view by comparing files.
+
+Version control will make you more confident psychologically.
+
+I want to use Git at work with SVN. Also, I want to use Git for my own project to upload it to GitHub.
+

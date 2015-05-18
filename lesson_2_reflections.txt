@@ -1,0 +1,1 @@
+Staging area is different from working directory and the repository. Working directory directly reflects the current status of files. Also, repository reflect the destination files status. Staging area is to be able to control the changes and make it logical to bundle the changes into the commit.
