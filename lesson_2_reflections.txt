@@ -1,1 +1,8 @@
 Staging area is different from working directory and the repository. Working directory directly reflects the current status of files. Also, repository reflect the destination files status. Staging area is to be able to control the changes and make it logical to bundle the changes into the commit.
+
+Make sure to keep adding your logical changes to the staging area and commit once.
+
+Instead of modifying files directly on the trunk, it make sense to have a logical change by creating a branch.
+
+Visualizing the branch structure helps us to understand the branches and master better. The diagram helps us to trace the commits if commits are traceable or not.
+
